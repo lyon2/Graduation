@@ -1,0 +1,3 @@
+/Users/schuser/CLionProjects/CarVisual/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/schuser/CLionProjects/CarVisual/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/schuser/CLionProjects/CarVisual/cmake-build-debug/CMakeFiles/CarVisual.dir
